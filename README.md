@@ -1,3 +1,10 @@
+## 参考
+
+* <https://github.com/AlphaGHX/Hackintosh-CVN-b460i-efi>
+* <https://apple.sqlsec.com/>
+* <https://www.tonymacx86.com/>
+* <https://dortania.github.io/OpenCore-Install-Guide/>
+
 ## 装机配置
 
 | cpu | i5-10400      |
