@@ -99,7 +99,7 @@
 					<key>HS05</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>10</integer>
+						<integer>8</integer>
 						<key>name</key>
 						<string>HS05</string>
 						<key>port</key>
@@ -110,7 +110,7 @@
 					<key>HS06</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>10</integer>
+						<integer>9</integer>
 						<key>name</key>
 						<string>HS06</string>
 						<key>port</key>
